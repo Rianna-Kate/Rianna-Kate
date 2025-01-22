@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Rianna Armour
 
 # 💫 About Me:
-👩🏾‍🎓 I am a computer science Master's graduate from the University of West Florida as of August 2024 with a specialization in data analytics.<br><br>I enjoy the ability to work through data to tell a story of trends and relationships that can be easily seen. I also am interested in software development and the building of applications or really just any application of tech that I find can help solve or automate everyday problems.<br><br>⚡ Fun Fact: Also a game developer on the side with experience in 3D modelling and coding from my Bachelor’s degree from the University of Central Florida. I have a game on Steam that I made during that time as a class project with my team called ‘Legend of Azcarth.’
+👩🏾‍🎓 I am a computer science Master's graduate from the University of West Florida as of August 2024 with a specialization in data analytics.<br><br>👩🏾‍💻 I enjoy the ability to work through data to tell a story of trends and relationships that can be easily seen. I also am interested in software development and the building of applications or really just any application of tech that I find can help solve or automate everyday problems.<br><br>⚡ Fun Fact: Also a game developer on the side with experience in 3D modelling and coding from my Bachelor’s degree from the University of Central Florida. I have a game on Steam that I made during that time as a class project with my team called ‘Legend of Azcarth.’
 
 ## 💡 Seeking Advice from Software Engineers and Data Analysts
 🤔 I'm still without professional experience in the field so I'm looking for help with the job search and any advice on my portfolio I can get either from data analysts or software engineers.
